@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GitHubUserAPI" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/pixel_blue</item>
+        <item name="colorPrimaryVariant">@color/pixel_blue</item>
+    </style>
+
+    <style name="Theme.GitHubUserAPI" parent="Base.Theme.GitHubUserAPI" />
+</resources>

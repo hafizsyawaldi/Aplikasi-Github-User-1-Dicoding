@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github Submission 1</string>
+
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repositories:</string>
+    <string name="follower">followers </string>
+    <string name="following">following</string>
+    <string name="value">99</string>
+
+    <string name="detail_user">Detail User</string>
+    <string name="not_found">User Not Found\n (┬┬﹏┬┬)</string>
+    <string name="account">Akun GitHub</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan Nama Pengguna</string>
+    <string name="type">User</string>
+    <string name="check">Please check another username</string>
+</resources>
